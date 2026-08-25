@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Lizbeth Flores!
 
+**Computer Science graduate**
 <!--
 **LizF11/LizF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,17 +20,17 @@ Here are some ideas to get you started:
 
 - 💼 Experienced in digital transformation, full-stack web development, and workflow automation.
 - 🌱 Currently diving deeper into Software Development, Cloud Infrastructure and Networking.
-- 🎯 Looking to collaborate on web applications, hardware integrations, or data-driven projects.
+- 🎯 Looking to collaborate on web applications or data-driven projects.
 
 ### Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,laravel,tailwind,docker,aws,postgres,mysql,linux&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,laravel,tailwind,docker,aws,postgres,mysql,linux&perline=6" alt="My Skills" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LizF11/LizF11/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LizF11/LizF11/output/github-contribution-grid-snake.svg">
@@ -42,8 +43,5 @@ Here are some ideas to get you started:
 
 <a href="linkedin.com/in/lizbeth-flores-7a462920b" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="lizfloresfer1@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
