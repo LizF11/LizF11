@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,laravel,tailwind,docker,aws,postgres,mysql,linux&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,react,nextjs,laravel,dotnet,tailwind,docker,aws,postgres,mysql,linux&perline=6" alt="My Skills" />
   </a>
 </p>
 
